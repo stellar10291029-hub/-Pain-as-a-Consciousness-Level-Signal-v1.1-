@@ -3,7 +3,7 @@
 This repository presents **Pain as a Consciousness-Level Signal** —
 a conceptual interface that interprets pain not as a biomedical symptom,
 but as a **first-order signal of misalignment** within the human
-consciousness–body system.
+consciousness–body system.For canonical prior-art and version anchoring, see the Prior-Art Reference at the end of this document.
 
 This work translates a prior-art declaration into an
 **engineering-readable conceptual layer** suitable for
