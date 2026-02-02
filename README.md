@@ -85,6 +85,8 @@ The present repository focuses specifically on
 
 ## Prior-Art Reference
 This repository is a conceptual translation of the prior-art declaration:
+This repository represents a v1.1 extended interpretive implementation,
+while the Zenodo record remains the canonical v1.0 declaration.
 
 **Lee, Eun-Young, M.D.**  
 *Pain as a Consciousness Messenger: Prior-Art Declaration of the Human
