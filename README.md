@@ -100,7 +100,10 @@ DOI: http://zenodo.org/records/18371892
 **Eun-Young Lee, M.D.**  
 Independent Researcher (Medicine · Human-Centered AI · Decision Ethics)  
 ORCID: https://orcid.org/0009-0005-9774-4827 
-Contact: pkf.eunyoung@gmail.com
+Correspondence: pkf.eunyoung@gmail.com
+This document serves as a canonical reference.
+Correspondence is limited to scholarly clarification or citation-related matters.
+
 
 ---
 
